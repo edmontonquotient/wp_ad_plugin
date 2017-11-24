@@ -1,0 +1,41 @@
+/* 
+*   Sidebar
+*/
+
+.sidebar-callout{
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+/* 
+*   Inline
+*/
+
+.inline-callout{
+    width: 100%;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+@media screen and (min-width: 992px) {
+    .inline-callout{
+        width: 50%;
+        display: inline-block;
+        float: left;
+        padding: 10px 20px;
+    }    
+}
+
+.inline-callout img {
+    max-width: 100%;
+}
+
+
+/* 
+*   Mobile
+*/
+
+.mobile-callout{
+    
+}

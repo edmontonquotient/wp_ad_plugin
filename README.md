@@ -1,0 +1,2 @@
+# Edmonton Quotient Ad Plugin
+
